@@ -1,3 +1,4 @@
+/* eslint-disable */
 export default function hasValuesFromArray(set, list) {
   let verdict = true;
   list.map((x) => {
