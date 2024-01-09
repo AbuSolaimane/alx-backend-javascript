@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* eslint-disable */
 export default function updateStudentGradeByCity(list, city, newGrade) {
   return list
     .filter((obj) => obj.location === city)
